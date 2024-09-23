@@ -29,13 +29,11 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-### Outras Tecnologias:
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-%2357C7F4?style=flat-square&logo=sublime-text&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6B00?style=flat-square&logo=postman&logoColor=white)
-
 ## ⚙️ Ferramentas:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-%2357C7F4?style=flat-square&logo=sublime-text&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6B00?style=flat-square&logo=postman&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
 ![Caynnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caynnan-martins&show_icons=true&theme=radical)
