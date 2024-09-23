@@ -1,6 +1,6 @@
 # 💻 Caynnan | Fullstack Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/seu-perfil) [![Gmail Badge](https://img.shields.io/badge/-caynnan%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caynnan@gmail.com)](mailto:caynnan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/seu-perfil) [![Gmail Badge](https://img.shields.io/badge/-caynnan666%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caynnan666@gmail.com)](mailto:caynnan666@gmail.com)
 
 ## 👋 Sobre mim
 Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixonado por tecnologia. Estou sempre buscando novas maneiras de melhorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação.
@@ -33,4 +33,4 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ## 📈 Estatísticas do GitHub
-![Caynnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Caynnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caynnan-martins&show_icons=true&theme=radical)
