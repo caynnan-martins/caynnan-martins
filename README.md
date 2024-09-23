@@ -30,7 +30,7 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-# HardSkill
+### HardSkill
 ![EJS](https://img.shields.io/badge/-EJS-8A2A2A?style=flat-square&logo=ejs&logoColor=white)
 
 ## ⚙️ Ferramentas:
