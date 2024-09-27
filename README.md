@@ -18,6 +18,8 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Construct](https://img.shields.io/badge/-Construct-FFB400?style=flat-square&logo=construct-3&logoColor=white)
+![Pawn](https://img.shields.io/badge/-Pawn-000000?style=flat-square&logo=pawn&logoColor=white)
 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,8 +28,6 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Construct](https://img.shields.io/badge/-Construct-FFB400?style=flat-square&logo=construct-3&logoColor=white)
-![Pawn](https://img.shields.io/badge/-Pawn-000000?style=flat-square&logo=pawn&logoColor=white)
 
 ### Backend & Databases:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
