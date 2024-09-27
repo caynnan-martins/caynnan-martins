@@ -20,6 +20,7 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Construct](https://img.shields.io/badge/-Construct-FFB400?style=flat-square&logo=construct-3&logoColor=white)
 ![Pawn](https://img.shields.io/badge/-Pawn-000000?style=flat-square&logo=pawn&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
