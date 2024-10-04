@@ -59,6 +59,3 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 
 ## 📈 Estatísticas do GitHub
 ![Caynnan's GitHub stats](https://github-readme-stats.vercel.app/api?username=caynnan-martins&show_icons=true&theme=radical)
-
-## 🎮 Meu Status no Discord
-![Meu Status no Discord](https://lanyard.kyrie25.me/api/365316559385919489?waveColor=FF5733&waveSpotifyColor=33FF57&theme=dark&bg=000000&animated=true&borderRadius=10px&idleMessage=Estou%20offline)
