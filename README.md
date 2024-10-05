@@ -49,6 +49,7 @@ Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixona
 ![React Navigation](https://img.shields.io/badge/-React%20Navigation-5a29e3?style=flat-square&logo=react&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/-Handlebars-ffdd00?style=flat-square&logo=handlebarsdotjs&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Expo](https://img.shields.io/badge/-Expo-1B1F22?style=flat-square&logo=expo&logoColor=white)
 
 ## ⚙️ Ferramentas:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
