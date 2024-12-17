@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-caynnan666%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caynnan666@gmail.com)](mailto:caynnan666@gmail.com)
 
 ## 👋 Sobre mim
-Olá! Meu nome é Caynnan, tenho 17 anos e sou um programador fullstack apaixonado por tecnologia. **Atualmente, estou cursando faculdade de Desenvolvimento de Sistemas** e estou sempre buscando novas maneiras de melhorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação.
+Olá! Meu nome é Caynnan, tenho 18 anos e sou um programador fullstack apaixonado por tecnologia. **Atualmente, estou cursando faculdade de Desenvolvimento de Sistemas** e estou sempre buscando novas maneiras de melhorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação.
 
 - 🚀 Atualmente trabalhando em projetos usando tecnologias modernas e eficientes.
 - 💡 Gosto de aprender sobre novas linguagens e ferramentas para expandir meu conhecimento.
