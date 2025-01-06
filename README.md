@@ -1,7 +1,7 @@
 # 💻 Caynnan | Fullstack Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/caynnanmartins) 
-[![Gmail Badge](https://img.shields.io/badge/-fcaynnan%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caynnan666@gmail.com)](mailto:caynnan666@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fcaynnan%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caynnan666@gmail.com)](mailto:fcaynnan@gmail.com)
 
 ## 👋 Sobre mim
 Olá! Meu nome é Caynnan, tenho 18 anos e sou um programador fullstack apaixonado por tecnologia. **Atualmente, estou cursando faculdade de Desenvolvimento de Sistemas** e estou sempre buscando novas maneiras de melhorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação.
