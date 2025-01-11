@@ -1,12 +1,12 @@
 # 💻 Caynnan | Fullstack Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/caynnanmartins) 
-[![Gmail Badge](https://img.shields.io/badge/-fcaynnan%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caynnan666@gmail.com)](mailto:fcaynnan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/caynnanmartins)  
+[![Gmail Badge](https://img.shields.io/badge/-fcaynnan%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fcaynnan@gmail.com)](mailto:fcaynnan@gmail.com)
 
 ## 👋 Sobre mim
 Olá! Meu nome é Caynnan, tenho 18 anos e sou um programador fullstack apaixonado por tecnologia. **Atualmente, estou cursando faculdade de Desenvolvimento de Sistemas** e estou sempre buscando novas maneiras de melhorar minhas habilidades e contribuir com soluções inovadoras no mundo da programação.
 
-- 🚀 Atualmente trabalhando em projetos usando tecnologias modernas e eficientes.
+- 🚀 Atualmente trabalhando em projetos usando tecnologias modernas e eficientes.  
 - 💡 Gosto de aprender sobre novas linguagens e ferramentas para expandir meu conhecimento.
 
 ## 🛠️ Tecnologias que utilizo
@@ -21,6 +21,9 @@ Olá! Meu nome é Caynnan, tenho 18 anos e sou um programador fullstack apaixona
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Construct](https://img.shields.io/badge/-Construct-FFB400?style=flat-square&logo=construct-3&logoColor=white)
 ![Pawn](https://img.shields.io/badge/-Pawn-000000?style=flat-square&logo=pawn&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
@@ -50,6 +53,11 @@ Olá! Meu nome é Caynnan, tenho 18 anos e sou um programador fullstack apaixona
 ![Handlebars](https://img.shields.io/badge/-Handlebars-ffdd00?style=flat-square&logo=handlebarsdotjs&logoColor=black)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Expo](https://img.shields.io/badge/-Expo-1B1F22?style=flat-square&logo=expo&logoColor=white)
+
+### Sistemas Operacionais:
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ## ⚙️ Ferramentas:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
